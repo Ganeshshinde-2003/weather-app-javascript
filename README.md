@@ -1,8 +1,11 @@
-﻿# weather-app-javascript
+﻿# weather-app-javascript 🌤️
 
 A simple weather display application built using JavaScript, HTML, and CSS. It allows users to search for a city and retrieve weather information from the OpenWeatherMap API. The application displays the current temperature, humidity, wind speed, and an appropriate weather icon based on the weather condition.
 
-![Screenshot](./screenshots/screenshot.png)
+## Screenshot
+
+![Screenshot (170)](https://github.com/Ganeshshinde-2003/weather-app-javascript/assets/115361691/d37dc8df-bfba-4894-b6b7-53e58ad722fc)
+
 
 ## Features ✨
 
