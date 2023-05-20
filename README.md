@@ -14,7 +14,7 @@ A simple weather display application built using JavaScript, HTML, and CSS. It a
 
 ## Demo 🚀
 
-You can see a live demo of the weather display application [here](https://example.com).
+You can see a live demo of the weather display application [here](https://app-js-weather.netlify.app/).
 
 ## Usage 🖥️
 - Enter the name of a city in the search input field.
